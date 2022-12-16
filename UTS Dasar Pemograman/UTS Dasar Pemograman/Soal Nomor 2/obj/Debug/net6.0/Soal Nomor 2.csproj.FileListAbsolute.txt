@@ -1,0 +1,15 @@
+D:\UTS Dasar Pemograman\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.exe
+D:\UTS Dasar Pemograman\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.deps.json
+D:\UTS Dasar Pemograman\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.runtimeconfig.json
+D:\UTS Dasar Pemograman\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.dll
+D:\UTS Dasar Pemograman\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.pdb
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.csproj.AssemblyReference.cache
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.AssemblyInfoInputs.cache
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.AssemblyInfo.cs
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.csproj.CoreCompileInputs.cache
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.dll
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\refint\Soal Nomor 2.dll
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.pdb
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.genruntimeconfig.cache
+D:\UTS Dasar Pemograman\Soal Nomor 2\obj\Debug\net6.0\ref\Soal Nomor 2.dll
